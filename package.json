@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "JS TDD Training.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ander3324/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Ander <ander3324@gmail.com> (https://iterart.net/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ander3324/js-tdd/issues"
+  },
+  "homepage": "https://github.com/ander3324/js-tdd#readme"
+}
